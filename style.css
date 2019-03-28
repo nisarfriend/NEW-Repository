@@ -1,6 +1,10 @@
+.header {
+  background: red;
+}
 .header li {
   list-style: none;
-}
-.testing {
-  background: red;
+  display: inline-block;
+  background: white;
+  margin: 30px;
+  padding: 16px;
 }
