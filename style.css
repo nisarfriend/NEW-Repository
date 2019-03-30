@@ -1,10 +1,25 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
+
 .header {
   background: red;
 }
 .header li {
+
   list-style: none;
   display: inline-block;
   background: white;
-  margin: 30px;
+  margin:  30px;
   padding: 16px;
+}
+.contact{
+  background-image: url("./pictures/flag.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
